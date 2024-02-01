@@ -1,0 +1,110 @@
+[
+  {
+    "Member1": "Daniel",
+    "Member2": "Jonas",
+    "Messages": [
+      {
+        "MessageContent": "Hej Daniel! Hur mår du?",
+        "MessageSender": "Jonas",
+        "PublishDate": "2023-12-17T19:48:07.5028391+01:00"
+      },
+      {
+        "MessageContent": "Dåligt",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T19:48:12.3375589+01:00"
+      }
+    ],
+    "Time": "2023-12-17T19:48:20.2414705+01:00",
+    "DynamicPreviewInfo": null
+  },
+  {
+    "Member1": "Emil",
+    "Member2": "Daniel",
+    "Messages": [
+      {
+        "MessageContent": "Tjo!",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T19:48:52.7755402+01:00"
+      },
+      {
+        "MessageContent": "WAZZAAAA",
+        "MessageSender": "Emil",
+        "PublishDate": "2023-12-17T19:48:57.0908496+01:00"
+      }
+    ],
+    "Time": "2023-12-17T19:49:01.4661147+01:00",
+    "DynamicPreviewInfo": null
+  },
+  {
+    "Member1": "Gustav",
+    "Member2": "Daniel",
+    "Messages": [
+      {
+        "MessageContent": "Gustav!",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T19:49:21.9273101+01:00"
+      },
+      {
+        "MessageContent": "Ja?",
+        "MessageSender": "Gustav",
+        "PublishDate": "2023-12-17T19:49:25.2912722+01:00"
+      }
+    ],
+    "Time": "2023-12-17T19:49:26.3906016+01:00",
+    "DynamicPreviewInfo": null
+  },
+  {
+    "Member1": "Emilia",
+    "Member2": "Daniel",
+    "Messages": [
+      {
+        "MessageContent": "Tjenare ;)",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T19:50:05.5543965+01:00"
+      },
+      {
+        "MessageContent": "Hej :)",
+        "MessageSender": "Emilia",
+        "PublishDate": "2023-12-17T19:50:16.9993131+01:00"
+      }
+    ],
+    "Time": "2023-12-17T19:50:22.2634464+01:00",
+    "DynamicPreviewInfo": null
+  },
+  {
+    "Member1": "Emil",
+    "Member2": "Daniel",
+    "Messages": [
+      {
+        "MessageContent": "Hej igen!",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T19:52:13.0780063+01:00"
+      },
+      {
+        "MessageContent": "Tjo!",
+        "MessageSender": "Emil",
+        "PublishDate": "2023-12-17T19:52:15.9312781+01:00"
+      }
+    ],
+    "Time": "2023-12-17T19:52:17.4552538+01:00",
+    "DynamicPreviewInfo": null
+  },
+  {
+    "Member1": "Daniel",
+    "Member2": "Emil",
+    "Messages": [
+      {
+        "MessageContent": "Hej",
+        "MessageSender": "Daniel",
+        "PublishDate": "2023-12-17T20:14:42.9532209+01:00"
+      },
+      {
+        "MessageContent": "Hej Daniel",
+        "MessageSender": "Emil",
+        "PublishDate": "2023-12-17T20:14:47.2496509+01:00"
+      }
+    ],
+    "Time": "2023-12-17T20:15:17.0324373+01:00",
+    "DynamicPreviewInfo": null
+  }
+]

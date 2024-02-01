@@ -1,0 +1,10 @@
+<Window x:Class="MyDemo.View.AcceptRejectDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Accept or Reject Client" Height="150" Width="300">
+    <Grid>
+        <TextBlock Text="Do you want to accept this client?" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,10,10,40"/>
+        <Button Content="Accept" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="100" Height="30" Click="Accept_Click" />
+        <Button Content="Reject" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="100" Height="30" Click="Reject_Click" />
+    </Grid>
+</Window>

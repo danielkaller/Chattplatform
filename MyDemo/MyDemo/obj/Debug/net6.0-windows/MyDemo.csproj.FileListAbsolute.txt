@@ -1,0 +1,193 @@
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.AssemblyReference.cache
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\GameBoard.g.cs
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\GameBoard.baml
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\sahsa74\source\repos\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\danka340\source\repos\tddd49 - Copy\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+X:\ok\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+X:\ok\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+X:\ok\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+X:\ok\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+X:\ok\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.g.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MainWindow.baml
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+X:\ok\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\emigu041\source\repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\emigu041\source\repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.AssemblyReference.cache
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CopyComplete
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.AssemblyReference.cache
+C:\Users\emigu041\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CopyComplete
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\danka340\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CopyComplete
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\danie\Source\Repos\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.exe
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.deps.json
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.runtimeconfig.json
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.AssemblyReference.cache
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.baml
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\AcceptRejectDialog.g.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.g.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.cache
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo_MarkupCompile.lref
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\ChatWindow.baml
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.g.resources
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfoInputs.cache
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.AssemblyInfo.cs
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CoreCompileInputs.cache
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.csproj.CopyComplete
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\refint\MyDemo.dll
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.pdb
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\MyDemo.genruntimeconfig.cache
+C:\Users\danie\tddd49\MyDemo\MyDemo\obj\Debug\net6.0-windows\ref\MyDemo.dll
